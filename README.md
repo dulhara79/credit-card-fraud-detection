@@ -76,4 +76,4 @@ credit_card_fraud_detection/
 Feel free to fork, create issues, or submit pull requests. Ensure code follows PEP 8 and includes tests.
 
 ## License
-MIT License
+MIT [LICENSE](LICENSE)
